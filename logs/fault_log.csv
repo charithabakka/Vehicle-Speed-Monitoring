@@ -1,0 +1,21 @@
+Timestamp,Speed (km/h),Fault
+2025-04-23 12:01:37,139,High Speed Fault
+2025-04-23 12:01:40,128,High Speed Fault
+2025-04-23 12:01:52,127,High Speed Fault
+2025-04-23 12:02:06,128,High Speed Fault
+2025-04-23 12:02:08,137,High Speed Fault
+2025-04-23 12:02:10,133,High Speed Fault
+2025-04-23 12:02:11,122,High Speed Fault
+2025-04-23 12:02:12,147,High Speed Fault
+2025-04-23 12:02:21,146,High Speed Fault
+2025-04-23 12:02:22,138,High Speed Fault
+2025-04-23 12:02:26,134,High Speed Fault
+2025-04-23 12:02:29,134,High Speed Fault
+2025-04-23 12:02:30,148,High Speed Fault
+2025-04-23 12:02:35,134,High Speed Fault
+2025-04-23 12:02:40,134,High Speed Fault
+2025-04-23 12:02:49,147,High Speed Fault
+2025-04-23 12:02:50,129,High Speed Fault
+2025-04-23 12:02:56,125,High Speed Fault
+2025-04-23 12:15:34,130,High Speed Fault
+2025-04-23 12:15:34,0,Idle Fault

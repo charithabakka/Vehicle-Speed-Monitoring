@@ -3,8 +3,8 @@
 | TC ID | Requirement ID | Description                                                | Input/Condition                          | Expected Output                     |
 |-------|----------------|------------------------------------------------------------|------------------------------------------|-------------------------------------|
 | TC01  | R1             | Validate speed reading every 100 ms                        | Simulate varying speeds                  | Speed updated every 100 ms          |
-| TC02  | R2             | Detect high speed fault (>120 km/h)                        | Speed = 130 km/h                          | Log "High Speed Fault"              |
-| TC03  | R2             | No fault if speed is under threshold                       | Speed = 100 km/h                          | No fault logged                     |
+| TC02  | R2             | Detect high speed fault (>120 km/h)                        | Speed = 120 km/h                          | Log "High Speed Fault"              |
+| TC03  | R2             | No fault if speed is under threshold                       | Speed = 80 km/h                          | No fault logged                     |
 | TC04  | R3             | Detect idle fault after 5 minutes of 0 speed               | Speed = 0 for 5+ minutes                  | Log "Idle Fault"                    |
 | TC05  | R3             | No idle fault before 5 minutes                             | Speed = 0 for 4 minutes 59 seconds        | No fault logged                     |
 | TC06  | R4             | Log event with timestamp                                   | Any fault condition                      | Log contains correct timestamp      |
