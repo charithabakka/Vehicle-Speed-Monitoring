@@ -12,3 +12,5 @@ datetime==4.3
 
 # If you use any other web framework (e.g., Flask or Django)
 # Flask==2.0.1  # Uncomment if using Flask
+
+setuptools>=51.0.0
